@@ -11,7 +11,7 @@ set_site_information(
     description="A stoichiometry calculator that finds the limiting " +
                 "reactant, yields, leftover masses, and heat of a reaction.",
     sources=["Chemistry 2e (OpenStax), Chapter 4"],
-    planning=["Copy of CS1 Final Project 1_ Design (3).pdf"],
+    planning=["design.pdf"],
     links=["VIDEO_LINK"]
 )
 hide_debug_information()
